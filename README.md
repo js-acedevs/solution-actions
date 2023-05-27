@@ -1,7 +1,5 @@
 ## Getting Started
 
-Solution Server/Actions is a task given by Solution
-
 ## Setup
 
 First, clone the repository into your local machine:
